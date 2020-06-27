@@ -29,7 +29,7 @@ SECRET_KEY = 's-q^)6h^myv&&2cyc%l(7ia+o-391c2z+tr3d9-v2dde__kbg2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'aminkaiser.pythonanywhere.com']
+ALLOWED_HOSTS = ['aminkaiser.pythonanywhere.com']
 
 # Application definition
 
